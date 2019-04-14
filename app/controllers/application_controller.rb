@@ -1,5 +1,5 @@
 class ApplicationController < ActionController::Base
 	def hello
-		render html: 'Rails custom app changes'
+		render html: 'Rails custom app changes dev branch'
 	end
 end
